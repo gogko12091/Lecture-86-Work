@@ -1,0 +1,14 @@
+c:\users\ball-new\documents\visual studio 2017\Projects\SortedListWork86\SortedListWork86\bin\Debug\SortedListWork86.exe.config
+c:\users\ball-new\documents\visual studio 2017\Projects\SortedListWork86\SortedListWork86\bin\Debug\SortedListWork86.exe
+c:\users\ball-new\documents\visual studio 2017\Projects\SortedListWork86\SortedListWork86\bin\Debug\SortedListWork86.pdb
+c:\users\ball-new\documents\visual studio 2017\Projects\SortedListWork86\SortedListWork86\obj\Debug\SortedListWork86.csprojResolveAssemblyReference.cache
+c:\users\ball-new\documents\visual studio 2017\Projects\SortedListWork86\SortedListWork86\obj\Debug\MainWindow.g.cs
+c:\users\ball-new\documents\visual studio 2017\Projects\SortedListWork86\SortedListWork86\obj\Debug\App.g.cs
+c:\users\ball-new\documents\visual studio 2017\Projects\SortedListWork86\SortedListWork86\obj\Debug\SortedListWork86_MarkupCompile.cache
+c:\users\ball-new\documents\visual studio 2017\Projects\SortedListWork86\SortedListWork86\obj\Debug\SortedListWork86_MarkupCompile.lref
+c:\users\ball-new\documents\visual studio 2017\Projects\SortedListWork86\SortedListWork86\obj\Debug\MainWindow.baml
+c:\users\ball-new\documents\visual studio 2017\Projects\SortedListWork86\SortedListWork86\obj\Debug\SortedListWork86.g.resources
+c:\users\ball-new\documents\visual studio 2017\Projects\SortedListWork86\SortedListWork86\obj\Debug\SortedListWork86.Properties.Resources.resources
+c:\users\ball-new\documents\visual studio 2017\Projects\SortedListWork86\SortedListWork86\obj\Debug\SortedListWork86.csproj.GenerateResource.Cache
+c:\users\ball-new\documents\visual studio 2017\Projects\SortedListWork86\SortedListWork86\obj\Debug\SortedListWork86.exe
+c:\users\ball-new\documents\visual studio 2017\Projects\SortedListWork86\SortedListWork86\obj\Debug\SortedListWork86.pdb
